@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Engineering+student+at+Indus+University&repeat=false"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=B.Tech%20Computer%20Engineering%20student%20at%20Indus%20University&fontSize=22&fontColor=C77DFF&fontAlignY=50" width="100%"/>
 
 </div>
 
