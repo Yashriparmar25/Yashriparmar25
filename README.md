@@ -12,7 +12,7 @@
 
 ### 🔮 About Me
 
-- 🎓 Final-year **Computer Science & Engineering** student at Indus University, Ahmedabad
+- 🎓 Final-year **Computer Engineering** student at Indus University, Ahmedabad
 - 💜 I like living at the intersection of **building things** and **explaining them** — dev projects, UX case studies, and marketing/content work all at once
 - 🛠️ Currently building **StudentLifeOS (Nocturne)** — a collaborative Android capstone app
 - 🎨 Also into **UX research & product design** (Figma), and have run real email/SEO/content campaigns outside the code editor
