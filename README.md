@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:9D4EDD,100:E0AAFF&height=200&section=header&text=Yashri%20Parmar&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20%26%20Android%20Developer%20%C2%B7%20UX%20Enthusiast%20%C2%B7%20Digital%20Marketer&descSize=16&descAlignY=65" width="100%"/>
 
-<a href="https://github.com/Yashriparmar25">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=600&lines=Final-Year+Computer+Engineering+Student+%40+Indus+University;Building+with+Android%2C+Java%2C+JavaScript+%26+Figma;Bridging+Product%2C+Design+%26+Growth" alt="Typing SVG" />
-</a>
-
 </div>
 
 ---
