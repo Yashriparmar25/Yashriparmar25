@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:9D4EDD,100:E0AAFF&height=200&section=header&text=Yashri%20Parmar&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20%26%20Android%20Developer%20%C2%B7%20UX%20Enthusiast%20%C2%B7%20Digital%20Marketer&descSize=16&descAlignY=65" width="100%"/>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=B.Tech%20Computer%20Engineering%20student%20at%20Indus%20University&fontSize=22&fontColor=C77DFF&fontAlignY=50" width="100%"/>
 
 </div>
