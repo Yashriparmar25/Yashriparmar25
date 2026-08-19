@@ -6,7 +6,7 @@
 
 ---
 
-### 🔮 About Me
+###  About Me
 
 - 🎓 Final-year **Computer Engineering** student at Indus University, Ahmedabad
 - 💜 I like living at the intersection of **building things** and **explaining them** — dev projects, UX case studies, and marketing/content work all at once
@@ -91,17 +91,6 @@
 
 <img src="https://img.shields.io/badge/EMAIL%20MARKETING-9D4EDD?style=for-the-badge&logo=mailchimp&logoColor=white"/> <img src="https://img.shields.io/badge/SEO-6A0DAD?style=for-the-badge&logo=googlesearchconsole&logoColor=white"/> <img src="https://img.shields.io/badge/EXCEL-C77DFF?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashriparmar25&hide_border=true&background=1A0B2E&ring=9D4EDD&fire=C77DFF&currStreakLabel=E0AAFF&sideLabels=DDCCF0&currStreakNum=E0AAFF&sideNums=DDCCF0&dates=B399D4" width="70%"/>
-
-</div>
-
----
 
 <div align="center">
 
